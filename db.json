@@ -1,0 +1,77 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Leo",
+      "cover_image": "https://c.ndtvimg.com/2023-09/9jc1kvn8_alia-_625x300_18_September_23.jpg",
+      "video_url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1"
+    },
+    {
+      "id": 2,
+      "caption": "Python Developers - Luminar Success Stories",
+      "cover_image": "https://scontent.fcok4-1.fna.fbcdn.net/v/t1.6435-9/44490342_1311399868997118_7441613568597819392_n.png?_nc_cat=107&ccb=1-7&_nc_sid=be3454&_nc_ohc=ISgKeGvSt0wAX85Xf1E&_nc_ht=scontent.fcok4-1.fna&oh=00_AfA3BmUwywsNMwVgKQO4Q3CSexrsAv5CFTncxhf7o6b4Mg&oe=6563559C",
+      "video_url": "https://www.youtube.com/embed/APCxyWc87u8?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": " Python Developers - Luminar Success Stories",
+      "cover_image": "https://i.postimg.cc/qqgmkxZk/44490342-1311399868997118-7441613568597819392-n.png",
+      "video_url": "https://www.youtube.com/embed/APCxyWc87u8?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "lo62hci8",
+      "name": "",
+      "videos": [
+        {
+          "id": 1,
+          "caption": "Leo",
+          "cover_image": "https://c.ndtvimg.com/2023-09/9jc1kvn8_alia-_625x300_18_September_23.jpg",
+          "video_url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1"
+        },
+       
+        {
+          "id": 2,
+          "caption": "Python Developers - Luminar Success Stories",
+          "cover_image": "https://scontent.fcok4-1.fna.fbcdn.net/v/t1.6435-9/44490342_1311399868997118_7441613568597819392_n.png?_nc_cat=107&ccb=1-7&_nc_sid=be3454&_nc_ohc=ISgKeGvSt0wAX85Xf1E&_nc_ht=scontent.fcok4-1.fna&oh=00_AfA3BmUwywsNMwVgKQO4Q3CSexrsAv5CFTncxhf7o6b4Mg&oe=6563559C",
+          "video_url": "https://www.youtube.com/embed/APCxyWc87u8?autoplay=1"
+        }
+      ],
+      "": "ukjn"
+    },
+    {
+      "id": 3,
+      "name": "sports",
+      "videos": [
+       
+      ]
+    },
+    {
+      "id": "4UyYiHu",
+      "name": "Education",
+      "videos": [
+        {
+          "id": 2,
+          "caption": "Python Developers - Luminar Success Stories",
+          "cover_image": "https://scontent.fcok4-1.fna.fbcdn.net/v/t1.6435-9/44490342_1311399868997118_7441613568597819392_n.png?_nc_cat=107&ccb=1-7&_nc_sid=be3454&_nc_ohc=ISgKeGvSt0wAX85Xf1E&_nc_ht=scontent.fcok4-1.fna&oh=00_AfA3BmUwywsNMwVgKQO4Q3CSexrsAv5CFTncxhf7o6b4Mg&oe=6563559C",
+          "video_url": "https://www.youtube.com/embed/APCxyWc87u8?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo85x1mn",
+      "video_title": "Leo",
+      "url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1",
+      "date": "27-10-2023 10:48:11 AM"
+    },
+    {
+      "id": "lo8t9nsa",
+      "video_title": "Leo",
+      "url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1",
+      "date": "27-10-2023 9:41:51 PM"
+    }
+  ]
+}
